@@ -1,0 +1,4 @@
+C:\Users\MarkBurgess\source\repos\DaisyTS2\DaisyTS2\obj\Debug\daisyts2.esproj.CoreCompileInputs.cache
+C:\Users\MarkBurgess\source\repos\DaisyTS2 - Copy\DaisyTS2\obj\Debug\daisyts2.esproj.CoreCompileInputs.cache
+C:\Users\MarkBurgess\source\repos\DaisyTS4\DaisyTS2\obj\Debug\daisyts2.esproj.CoreCompileInputs.cache
+C:\Users\MarkBurgess\source\repos\DaisyTS6\DaisyTS2\obj\Debug\daisyts2.esproj.CoreCompileInputs.cache
